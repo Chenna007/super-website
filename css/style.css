@@ -1,0 +1,22 @@
+
+/* import fonts from fonts.css file */
+@import url(./font.css);
+
+
+/* start navigation */
+
+.header_area .main-menu .navbar .navbar-barand {
+    padding: 0 2rem 0 5 rem;
+}
+
+.header_area .main-menu .navbar{
+    padding: 1rem 20rem;
+}
+
+.header_areaa .main-menu .nav-item .nav-linked {
+    font-family: "Roboto", cursive;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 1.7rem;
+    color: black;
+}
